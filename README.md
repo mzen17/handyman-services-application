@@ -8,6 +8,8 @@ Authors:
 
 This application was built as part of the course **[CS:5830:0001 Software Engineering Project](https://myui.uiowa.edu/my-ui/courses/details.page?ci=150179&id=1030268)** taken during the Spring 2025 semester at The University of Iowa.
 
+The original repository can be found ![here](https://github.com/uiowaSEP2025/sep2025-project-team_003).
+
 ## Introduction
 
 The Handyman Services Application (HSA) is a web-based, field-service app designed to assist handyman businesses. The app is an all-in-one solution for a handyman to manage everyday tasks such as customer management, job tracking, invoicing, and bookings.
