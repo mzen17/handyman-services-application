@@ -32,12 +32,61 @@ The Handyman Services App consists of 6 primary features and a secondary custome
 
 #### Primary Features
 
-- **Customer Relations Manager (CRM)**: Manage customer information and interactions
-- **Invoicing**: Generate and track invoices for completed jobs
-- **Quotes**: Create and send quotes to potential customers
-- **Bookings**: Schedule and manage appointments
-- **Dispatching**: Assign jobs to team members or subcontractors
-- **Jobs, services, and materials management**: Track job details, services provided, and materials used
+Services
+
+https://github.com/user-attachments/assets/5372874f-799f-4189-a0d3-5c131c7c0241
+
+Navigation
+
+
+https://github.com/user-attachments/assets/e0e42916-d815-43bc-b1c0-695e21b6f32e
+
+Contractors
+
+
+https://github.com/user-attachments/assets/77ea6851-fc0a-4efe-b116-a65c18037f81
+
+
+Customers
+
+
+https://github.com/user-attachments/assets/a1c463cc-db12-407e-b401-f11a7feb33ed
+
+
+Login and Signup
+
+
+https://github.com/user-attachments/assets/ab4e87db-393b-4f47-a432-c3abbdfa319e
+
+
+Materials
+
+
+https://github.com/user-attachments/assets/489d1939-e015-4eb3-bb68-84a1b1b8f85d
+
+
+Invoices
+
+
+https://github.com/user-attachments/assets/7845034a-6a0f-4ebd-a5ac-64956c63ae52
+
+
+Onboarding
+
+
+https://github.com/user-attachments/assets/dcf151f4-af62-48cf-964d-3af93e50fa22
+
+
+Bookings and Calendar
+
+
+https://github.com/user-attachments/assets/01f816a1-8a4c-4d48-86ec-7255503531f7
+
+
+Jobs
+
+https://github.com/user-attachments/assets/c89f7f4c-93f2-44c3-ac7d-e42ad71477ec
+
 
 ## Technical Stack
 
