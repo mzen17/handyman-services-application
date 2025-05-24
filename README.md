@@ -1,4 +1,7 @@
 # Handyman Services Application (HSA)
+![image](https://github.com/user-attachments/assets/7c4ea67b-bd03-4655-ac81-8d927554f271)
+
+
 Authors:
 
 - Alex Guo
@@ -93,9 +96,9 @@ https://github.com/user-attachments/assets/c89f7f4c-93f2-44c3-ac7d-e42ad71477ec
 The Handyman Services Application is built using the following technologies:
 
 - **Frontend**: Angular 19 with Angular Material and Tailwind CSS
-- **Backend**: Django 5 with Django REST Framework
-- **Database**: PostgreSQL
-- **Deployment**: Docker and Kubernetes support
+- **Backend**: Django Rest with Gunicorn
+- **Database**: PostgreSQL + Redis
+- **Deployment**: Google Cloud Platform + Kubernetes
 
 ## Installation Instructions
 
