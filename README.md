@@ -34,26 +34,17 @@ The Handyman Services App consists of 6 primary features and a secondary custome
 ### Key Features
 
 #### Primary Features
-
-Services
-
-https://github.com/user-attachments/assets/5372874f-799f-4189-a0d3-5c131c7c0241
-
-Navigation
+Quote Managment
 
 
-https://github.com/user-attachments/assets/e0e42916-d815-43bc-b1c0-695e21b6f32e
+https://github.com/user-attachments/assets/e5315a51-a316-4fba-b312-c5b96faecc1c
 
-Contractors
-
-
-https://github.com/user-attachments/assets/77ea6851-fc0a-4efe-b116-a65c18037f81
+External Website Forms
 
 
-Customers
+https://github.com/user-attachments/assets/d94dec87-eb6f-41d5-a206-827246decb1e
 
 
-https://github.com/user-attachments/assets/a1c463cc-db12-407e-b401-f11a7feb33ed
 
 
 Login and Signup
@@ -61,12 +52,6 @@ Login and Signup
 
 https://github.com/user-attachments/assets/ab4e87db-393b-4f47-a432-c3abbdfa319e
 
-
-Materials
-
-
-
-https://github.com/user-attachments/assets/080fa058-217c-478f-ab8b-20c266fc3211
 
 
 
@@ -87,6 +72,12 @@ Bookings and Calendar
 
 
 https://github.com/user-attachments/assets/01f816a1-8a4c-4d48-86ec-7255503531f7
+
+Booking Remainders
+
+
+https://github.com/user-attachments/assets/87c3e5bb-bfaf-4cd8-8daf-aeb4a67106b4
+
 
 
 Jobs
