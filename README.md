@@ -65,7 +65,10 @@ https://github.com/user-attachments/assets/ab4e87db-393b-4f47-a432-c3abbdfa319e
 Materials
 
 
-https://github.com/user-attachments/assets/489d1939-e015-4eb3-bb68-84a1b1b8f85d
+
+https://github.com/user-attachments/assets/080fa058-217c-478f-ab8b-20c266fc3211
+
+
 
 
 Invoices
